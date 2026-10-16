@@ -12,5 +12,7 @@ Lenguaje: JavaScript (Node.js). Cada ejercicio se ejecuta con `node <archivo>.js
 | `bst-numerico` | Árbol binario de búsqueda con recorridos y búsqueda | `bst.js` |
 | `arbol-menu` | Árbol n-ario de menú de navegación | `arbol-menu.js` |
 | `grafo-personas-ciudades` | Grafo de personas y ciudades | `grafo.js` |
+| `heap-prioridad` | Heap mínimo como cola de prioridad (urgencias) | `heap.js` |
+| `trie-autocompletar` | Trie para autocompletar palabras | `trie.js` |
 
 Estudiante: Juan Camilo Reyes Cardona - cód. 2235983
