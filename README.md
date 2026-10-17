@@ -14,5 +14,6 @@ Lenguaje: JavaScript (Node.js). Cada ejercicio se ejecuta con `node <archivo>.js
 | `grafo-personas-ciudades` | Grafo de personas y ciudades | `grafo.js` |
 | `heap-prioridad` | Heap mínimo como cola de prioridad (urgencias) | `heap.js` |
 | `trie-autocompletar` | Trie para autocompletar palabras | `trie.js` |
+| `trie-heap-buscador` | Challenge 11: buscador de productos (trie) con top K (heap) | `buscador.js` |
 
 Estudiante: Juan Camilo Reyes Cardona - cód. 2235983
